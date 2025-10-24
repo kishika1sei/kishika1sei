@@ -87,17 +87,4 @@
 
 ---
 
-## 📈 Stats (optional)
-> 公開アクティビティを表示したい場合のみ。ダークモード対応のサンプルです。
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_ID&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=transparent&hide_border=true)
-
----
-
-### 🧩 Tips
-- この README は `YOUR_GITHUB_ID/YOUR_GITHUB_ID` リポジトリの `README.md` に置くとプロフィールに表示されます。
-- バッジの色味はモノトーン寄せで“おしゃれ”をキープ。増やしすぎないのがコツ。
-- プロジェクトは **課題→解決→結果** の 3点で短く。社内案件は匿名化＆構成図だけでも伝わります。
-- 仕事募集の導線（連絡先／フォーム／ cal.com など）を置くと効果的。
 
