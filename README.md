@@ -2,7 +2,7 @@
 
 > Python × Azure で “AIチャットボット” をつくる人。
 >
-> Flask で作り、Azure OpenAI + Cosmos DB + AI Search で RAG チャットボットを実装。閉域網インフラの設計・構築や Document Intelligence のOCR活用までフルスタックに対応します。
+> Django, Flaskで作り、Azure OpenAI + Cosmos DB + AI Search で RAG チャットボットを実装。閉域網インフラの設計・構築や Document Intelligence のOCR活用までフルスタックに対応します。
 
 ---
 
@@ -53,7 +53,7 @@
 ## 👨‍💻 What I build
 - **Python API 開発**（Flask / FastAPI）
 - **RAG チャットボット**（Azure OpenAI + AI Search + Cosmos DB + Blob）
-- **閉域網で動作する AI 基盤**（VNet, Private Endpoint, NSG 等）
+- **閉域網で動作する Azure AI 基盤**（VNet, Private Endpoint, NSG 等）
 - **ドキュメントOCR パイプライン**（Azure Document Intelligence）
 - **RAGチャットボット用ドキュメント管理画面** (Flask + Cosmos DB + Blob)
 
