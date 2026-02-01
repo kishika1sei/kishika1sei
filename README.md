@@ -8,7 +8,7 @@
 
 ## 🌟 About me
 - 🇯🇵 Tokyo-based | Backend/AI Engineer
-- 🧪 Python（Flask）、LangChain でプロトタイプ→本番運用まで
+- 🧪 Python（Django,Flask）、LangChain でRAGチャットボットのプロトタイプ→本番運用まで
 - ☁️ Azure 中心（OpenAI, Cosmos DB, AI Search, Blob Storage, VNet/閉域）
 - ☁️ AWS: **SAA** / MGN によるオンプレ→クラウド移行の実務経験
 - 🧠 RAG・ベクタDB（FAISS / PostgreSQL）での回答精度改善が得意
@@ -72,7 +72,7 @@
 
 - **Python API Template**  
   Flask/FastAPI ベースの API スケルトンと CI。  
-  **Repo:** `[coming soon]`
+  **Repo:** `[RAGチャットボットサンプルアプリ](https://github.com/kishika1sei/djangoapp-ragsample)`
 
 ---
 
