@@ -72,7 +72,7 @@
 
 - **Python API Template**  
   Flask/FastAPI ベースの API スケルトンと CI。  
-  **Repo:** `![RAGチャットボットサンプルアプリ](https://github.com/kishika1sei/djangoapp-ragsample)`
+  **Repo:** ![RAGチャットボットサンプルアプリ](https://github.com/kishika1sei/djangoapp-ragsample)
 
 ---
 
